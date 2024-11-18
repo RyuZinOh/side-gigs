@@ -1,0 +1,6 @@
+// script.js
+window.onload = function() {
+  const messageElement = document.getElementById('message');
+  
+  messageElement.textContent = 'Thanks for using me by Spikeset';
+};
